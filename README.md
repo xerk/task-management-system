@@ -1,6 +1,6 @@
 # Task Management System
 
-A task management REST API built with Laravel 12, featuring user authentication, task assignment, commenting system, and email notifications.
+A task management REST API built with Laravel 12, featuring user authentication, task assignment, commenting system, and email notifications, you use postman to test the api [Postman Collection](https://github.com/xerk/task-management-system/blob/main/Task_postman_collection.json)
 
 ## Features
 
